@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">找对象上有缘</string>
+    <string name="user_name">请输入用户名</string>
+    <string name="user_pass">请输入密码</string>
+    <string name="login">登录</string>
+    <string name="exit">注销</string>
+    <string name="rem">记住用户名和密码</string>
+    <string name="pass">显示密码</string>
+</resources>
